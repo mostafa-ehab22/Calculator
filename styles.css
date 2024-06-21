@@ -4,7 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: beige;
+  background-color: hsl(60, 57%, 90%);
 }
 #calculator {
   background-color: hsl(0, 0%, 15%);
@@ -29,9 +29,6 @@ body {
   padding: 30px;
 }
 
-#clear {
-  background-color: rgb(114, 158, 32);
-}
 button {
   height: 70px;
   width: 70px;
